@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9F0pzgWFsuZEaEL4lwcGmVmjavWK5d7ybgN4+foWDi7pIa4nMHIA7olFenoHp3BP8Jvak7yH+RHbCBK3Tt/0tw==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\visual studio 2019\\Dossier\\WinFormLibrary\\WinFormLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M-JALALI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\bin\Debug\netcoreapp3.1\WinFormLibrary.deps.json
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\bin\Debug\netcoreapp3.1\WinFormLibrary.dll
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\bin\Debug\netcoreapp3.1\WinFormLibrary.pdb
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.csproj.AssemblyReference.cache
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.Controls.MyButton.resources
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.Controls.MyPanel.resources
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.Controls.MyPanelTitle.resources
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.Controls.SuperButton.resources
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.Controls.ViewScroller.resources
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.csproj.GenerateResource.cache
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.AssemblyInfoInputs.cache
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.AssemblyInfo.cs
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.csproj.CoreCompileInputs.cache
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.dll
+F:\Projects\visual studio 2019\Dossier\WinFormLibrary\obj\Debug\netcoreapp3.1\WinFormLibrary.pdb

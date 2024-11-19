@@ -6,4 +6,6 @@ build_property.ApplicationHighDpiMode =
 build_property.ApplicationUseCompatibleTextRendering = 
 build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = WinFormLibrary
-build_property.ProjectDir = F:\Projects\visual studio 2019\Dossier\WinFormLibrary\
+build_property.ProjectDir = D:\Projects\visual studio 2022\Dossier\WinFormLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -28,26 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SuperButton));
-            this.elipseControl1 = new WinFormLibrary.Components.ElipseControl(this.components);
-            this.borderControl1 = new WinFormLibrary.Components.BorderControl(this.components);
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // elipseControl1
-            // 
-            this.elipseControl1.CornerRadius = 5;
-            this.elipseControl1.TargetControl = this;
-            // 
-            // borderControl1
-            // 
-            this.borderControl1.BorderStyle = System.Windows.Forms.ButtonBorderStyle.Solid;
-            this.borderControl1.LineColor = System.Drawing.Color.Black;
-            this.borderControl1.LineWidth = 2;
-            this.borderControl1.TargetControl = this;
             // 
             // label1
             // 
@@ -86,9 +71,7 @@
         }
 
         #endregion
-        private WinFormLibrary.Components.ElipseControl elipseControl1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
-        public Components.BorderControl borderControl1;
     }
 }

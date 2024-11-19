@@ -71,6 +71,7 @@ namespace WinFormLibrary.Components
                 lineColor, lineWidth, borderStyle,
                 lineColor, lineWidth, borderStyle,
                 lineColor, lineWidth, borderStyle);
+
         }
 
     }
